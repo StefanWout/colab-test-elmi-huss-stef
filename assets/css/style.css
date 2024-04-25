@@ -1,0 +1,16 @@
+.border-text {
+    color: rgb(14, 14, 14); /* Text color */
+    font-size: 24px; /* Size of the text */
+    
+    text-shadow: 
+        -1px -1px 0 #fafafa,  
+         1px -1px 0 #fafafa,
+        -1px  1px 0 #fafafa,
+         1px  1px 0 #fafafa; /* Shadow effect simulating a black border */
+}
+
+h1 {
+    font-family: "Orbitron", sans-serif;
+    position: relative;
+    text-align: center;
+}
